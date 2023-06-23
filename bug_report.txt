@@ -9,3 +9,4 @@ Steps:
 Expected Result- [Cookies settings] link is translated into local languages.
 Actual Result- [Cookies settings] link isn't translated into local languages.
 Comments- The bug is also reproduced for the mobile.
+Attachment- https://drive.google.com/julia/...
