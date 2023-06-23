@@ -1,0 +1,5 @@
+name- Julia
+surname- Ruanova
+age- 39
+pets- no
+future_disired_salary- 600 $
