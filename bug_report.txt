@@ -1,1 +1,11 @@
-
+ID - 506
+Severity - Trivial
+Environment- Samsung S20+ (Android 13), Big Sur 11.7.7
+Title- [Cookies settings] link in the footer are not translated into local languages exept EN.
+Steps:
+     1. Navigate to capital.com
+     2. Selected any languages except EN
+     3. At the "Main Page" scroll down to the footer
+Expected Result- [Cookies settings] link is translated into local languages.
+Actual Result- [Cookies settings] link isn't translated into local languages.
+Comments- The bug is also reproduced for the mobile.
